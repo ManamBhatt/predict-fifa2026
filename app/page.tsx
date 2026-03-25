@@ -113,7 +113,7 @@ export default function WorldCupDashboard() {
 
       <footer className="max-w-2xl mx-auto mt-12 text-center border-t border-slate-900 pt-6">
         <p className="text-[10px] text-slate-600 uppercase tracking-widest font-medium">
-          Last Sync: {lastUpdated || 'Never'} • Powered by Gemini Engine
+          Last Sync: {lastUpdated || 'Never'} • Powered by Manam.org
         </p>
       </footer>
     </main>
