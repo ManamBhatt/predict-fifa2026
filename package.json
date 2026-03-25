@@ -6,3 +6,11 @@
     "lucide-react": "latest"
   }
 }
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "vercel-build": "next build",
+    "start": "next start"
+  }
+}
